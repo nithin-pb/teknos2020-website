@@ -1682,9 +1682,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   transform-origin: center;
 }
 
+.speaker-center{
+  padding-left: 35%;
+    flex: 0 0 67%;
+    max-width: 100%;
+}
+
 
 
 @keyframes beat{
   to { transform: scale(1.1); }
 }
-
